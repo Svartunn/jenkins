@@ -24,7 +24,7 @@
             <div class="row bgimage">
                 <div class="col-sm-12">
 
-                    <p class="nametext"><b>Richard Smith</b></p>
+                    <p class="nametext"><b>Richard Smith 4363</b></p>
 
                     <p class="bannertext"><b>1234 Cowboy Dr.</b></p>
 
