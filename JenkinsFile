@@ -1,0 +1,28 @@
+pipeline {
+    agent any 
+    stages {
+        stage('Clone') {
+            steps {
+                echo 'Clone the Repo!' 
+                sh 'rm -fr jenkins' //Removes the clone from jenkins so it can clone again
+                sh 'git clone https://github.com/Svartunn/jenkins.git'
+            }
+        }
+        stage('Test') {
+            steps {
+                echo 'Testing..'
+               sh '''
+                echo "doing test stuff.."
+                '''
+            }
+        }
+        stage('Deliver') {
+            steps {
+                echo 'Deliver....'
+                sh '''
+                echo "doing delivery stuff.."
+                '''
+            }
+        }
+    }
+}
