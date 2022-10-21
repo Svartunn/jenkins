@@ -50,7 +50,7 @@
                     <div class="quotebox">
                         <%-- quote 1 --%>
                         <p class="quotepara">"If you're offered a seat on a rocketship,</p>
-                        <p class="quotepara">don't ask what seat! Just get on.</p>
+                        <p class="quotepara">don't ask what seat! Just get on AND RIDE TO THE MOON.</p>
 
                         <p class="quotepara">- Sheryl Sandberg</p>
                     </div>
