@@ -29,6 +29,7 @@
                     <p class="bannertext"><b>1234 Cowboy Dr.</b></p>
 
                     <p class="bannertext"><b>Stillwater, OK 74074</b></p>
+                    <p class="bannertext"><b>Carney, OK 74834</b></p>
 
                     <p class="bannertext"><b>1 (405) 747-1234</b></p>
 
